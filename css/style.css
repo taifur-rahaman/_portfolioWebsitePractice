@@ -41,15 +41,13 @@ body {
 
 .hero_element {
   display: flex;
-  height: 100%;
-  width: 100%;
+
   background: url("../img/top-banner.png") no-repeat;
 }
 
 .middle_element {
   display: flex;
-  height: 100%;
-  width: 100%;
+
   background-image: url("../img/dream-bg.png");
   background-repeat: no-repeat;
   background-position: right;
