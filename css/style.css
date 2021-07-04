@@ -41,14 +41,14 @@ body {
 
 .hero_element {
   display: flex;
-  width: 100vw;
-  background: url("/img/top-banner.png") no-repeat;
+  width: 100%;
+  background: url("../img/top-banner.png") no-repeat;
 }
 
 .middle_element {
   display: flex;
-  width: 100vw;
-  background-image: url("/img/dream-bg.png");
+  width: 100%;
+  background-image: url("../img/dream-bg.png");
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -84,7 +84,7 @@ body {
 .experience {
   display: flex;
 
-  background-image: url("/img/exp-bg.png");
+  background-image: url("../img/exp-bg.png");
   background-repeat: no-repeat;
   background-position: left;
 }
